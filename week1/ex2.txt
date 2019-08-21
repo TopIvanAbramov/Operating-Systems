@@ -1,0 +1,500 @@
+  168  python bot2.py
+  169  clear
+  170  python bot2.py
+  171  clear
+  172  python bot2.py
+  173  clear
+  174  python bot2.py
+  175  clear
+  176  python bot2.py
+  177  clear
+  178  python bot2.py
+  179  clear
+  180  python bot2.py
+  181  clear
+  182  python bot2.py
+  183  clear
+  184  python bot2.py
+  185  clear
+  186  python bot2.py
+  187  clear
+  188  python bot2.py
+  189  clear
+  190  python bot2.py
+  191  clear
+  192  python bot2.py
+  193  clear
+  194  python bot2.py
+  195  clear
+  196  python bot2.py
+  197  clear
+  198  python bot2.py
+  199  clear
+  200  python bot2.py
+  201  clear
+  202  git add .
+  203  git commit -am "improve sended photos"
+  204  git push heroku master
+  205  clear
+  206  python bot2.py
+  207  clear
+  208  python bot2.py
+  209  clear
+  210  python bot2.py
+  211  clear
+  212  python bot2.py
+  213  clear
+  214  python bot2.py
+  215  clear
+  216  python bot2.py
+  217  clear
+  218  python bot2.py
+  219  clear
+  220  python bot2.py
+  221  clear
+  222  python bot2.py
+  223  clear
+  224  python bot2.py
+  225  clear
+  226  python bot2.py
+  227  clear
+  228  python bot2.py
+  229  clear
+  230  python bot2.py
+  231  clear
+  232  python bot2.py
+  233  clear
+  234  python bot2.py
+  235  clear
+  236  python bot2.py
+  237  python bot2.py
+  238  clear
+  239  python bot2.py
+  240  clear
+  241  python bot2.py
+  242  clear
+  243  python bot2.py
+  244  clear
+  245  python bot2.py
+  246  clear
+  247  python bot2.py
+  248  clear
+  249  python bot2.py
+  250  clear
+  251  python bot2.py
+  252  clear
+  253  python bot2.py
+  254  clear
+  255  python bot2.py
+  256  clear
+  257  python bot2.py
+  258  clear
+  259  python bot2.py
+  260  clear
+  261  python bot2.py
+  262  clear
+  263  python bot2.py
+  264  clear
+  265  python bot2.py
+  266  clear
+  267  python bot2.py
+  268  clear
+  269  python bot2.py
+  270  clear
+  271  python bot2.py
+  272  clear
+  273  python bot2.py
+  274  clear
+  275  python bot2.py
+  276  clear
+  277  python bot2.py
+  278  clear
+  279  python bot2.py
+  280  clear
+  281  python bot2.py
+  282  clear
+  283  python bot2.py
+  284  clear
+  285  python bot2.py
+  286  clear
+  287  python bot2.py
+  288  clear
+  289  clear
+  290  clear
+  291  python bot2.py
+  292  clear
+  293  python bot2.py
+  294  clear
+  295  python bot2.py
+  296  clear
+  297  python bot2.py
+  298  clear
+  299  python bot2.py
+  300  clear
+  301  python bot2.py
+  302  clear
+  303  python bot2.py
+  304  clear
+  305  python bot2.py
+  306  clear
+  307  python bot2.py
+  308  clear
+  309  python bot2.py
+  310  clear
+  311  python bot2.py
+  312  clear
+  313  python bot2.py
+  314  git add .
+  315  git commit -am "add russian language"
+  316  git push heroku master
+  317  clear
+  318  python bot2.py
+  319  clear
+  320  python bot2.py
+  321  clear
+  322  python bot2.py
+  323  clear
+  324  python bot2.py
+  325  clear
+  326  python bot2.py
+  327  clear
+  328  python bot2.py
+  329  clear
+  330  python bot2.py
+  331  clear
+  332  python bot2.py
+  333  clear
+  334  python bot2.py
+  335  clear
+  336  python bot2.py
+  337  clear
+  338  python bot2.py
+  339  clear
+  340  python bot2.py
+  341  clear
+  342  python bot2.py
+  343  clear
+  344  python bot2.py
+  345  clear
+  346  git add .
+  347  git commit -am "fix menu bugs"
+  348  git push heroku master
+  349  clear
+  350  python bot2.py
+  351  clear
+  352  python bot2.py
+  353  clear
+  354  python bot2.py
+  355  clear
+  356  python bot2.py
+  357  clear
+  358  python bot2.py
+  359  clear
+  360  python bot2.py
+  361  sudo sysctl -w net.inet.ip.ttl=65
+  362  clear
+  363  python bot2.py
+  364  clear
+  365  ls
+  366  ls desktop/bot
+  367  clear
+  368  python bot2.py
+  369  ls
+  370  cd desktop
+  371  cd bot
+  372  cd bot
+  373  ls
+  374  clear
+  375  python bot2.py
+  376  clear
+  377  clear
+  378  python bot2.py
+  379  clear
+  380  python bot2.py
+  381  clear
+  382  python bot2.py
+  383  clear
+  384  python bot2.py
+  385  clear
+  386  python bot2.py
+  387  clear
+  388  python bot2.py
+  389  clear
+  390  python bot2.py
+  391  clear
+  392  clear
+  393  clear
+  394  python bot2.py
+  395  clear
+  396  python bot2.py
+  397  clear
+  398  python bot2.py
+  399  clear
+  400  python bot2.py
+  401  clear
+  402  python bot2.py
+  403  clear
+  404  python bot2.py
+  405  clear
+  406  python bot2.py
+  407  clear
+  408  python bot2.py
+  409  clear
+  410  python bot2.py
+  411  clear
+  412  python bot2.py
+  413  clear
+  414  clear
+  415  python bot2.py
+  416  clear
+  417  clear
+  418  python bot2.py
+  419  clear
+  420  python bot2.py
+  421  clear
+  422  python bot2.py
+  423  clear
+  424  python bot2.py
+  425  clear
+  426  clear
+  427  python bot2.py
+  428  clear
+  429  python bot2.py
+  430  clear
+  431  python bot2.py
+  432  clear
+  433  clear
+  434  python bot2.py
+  435  clear
+  436  python bot2.py
+  437  clear
+  438  python bot2.py
+  439  clear
+  440  python bot2.py
+  441  clear
+  442  python bot2.py
+  443  clear
+  444  python bot2.py
+  445  clear
+  446  python bot2.py
+  447  clear
+  448  python bot2.py
+  449  clear
+  450  python bot2.py
+  451  clear
+  452  python bot2.py
+  453  clear
+  454  python bot2.py
+  455  clear
+  456  python bot2.py
+  457  clear
+  458  python bot2.py
+  459  clear
+  460  python bot2.py
+  461  clear
+  462  clear
+  463  python bot2.py
+  464  clear
+  465  clear
+  466  python bot2.py
+  467  clear
+  468  python bot2.py
+  469  clear
+  470  python bot2.py
+  471  clear
+  472  clear
+  473  python bot2.py
+  474  python bot2.py
+  475  clear
+  476  clear
+  477  python bot2.py
+  478  clea
+  479  clear
+  480  clear
+  481  python bot2.py
+  482  clear
+  483  python bot2.py
+  484  clear
+  485  python bot2.py
+  486  clear
+  487  python bot2.py
+  488  clear
+  489  python bot2.py
+  490  clear
+  491  python bot2.py
+  492  clear
+  493  git add .
+  494   git commit -am "change parse_mode to html"
+  495  git push heroku master
+  496  clear
+  497  jupyther notebook
+  498  jupyter notebook
+  499  jupyter notebook
+  500  jupyter notebook
+  501  jupyter notebook
+  502  clear
+  503  sudo sysctl -w net.inet.ip.ttl=64
+  504  clear
+  505  $ssh -X I.abramov@osc-[N].edu.innopolis.ru
+  506  ssh -X I.abramov@osc-[N].edu.innopolis.ru
+  507  ssh -X I.abramov@osc-[12].edu.innopolis.ru
+  508  clear
+  509  ls
+  510  cd desktop
+  511  mkdir week1
+  512  cd /usr/bin
+  513  grep PATTERN  gcc
+  514  ls
+  515  clear
+  516  grep PATTERN  gcc  week1/ex1.txt
+  517  cd
+  518  cd desktop/weel1
+  519  cd desktop
+  520  cd week1
+  521  ls
+  522  clear
+  523  echo ex1.txt
+  524  clear
+  525  cd /usr/bin
+  526  grep PATTERN  gcc  week1/ex1.txt
+  527  grep PATTERN  gcc desktop/ week1/ex1.txt
+  528* grep PATTERN  gcc 
+  529  grep PATTERN <gcc>
+  530  grep PATTERN  gcc  -c
+  531  cd desktop/week1
+  532  ls
+  533  cd desktop
+  534  clear
+  535  cd week1
+  536  ls
+  537  cd
+  538  cd
+  539  cd desktop
+  540  ls
+  541  clear
+  542  cd week1
+  543  ls
+  544  clear
+  545  echo ex1.txt
+  546  clear
+  547  echo > ex1.txt
+  548  grep PATTERN  gcc  -c
+  549  grep gcc  -c
+  550  clear
+  551  grep [ex] -c
+  552  clear
+  553  grep -c [e] /usr/bin
+  554  grep -c [s] /usr/bin
+  555  grep -c [as] /usr/bin
+  556  grep -c [as] /usr/bin *
+  557  grep -c [gcc] /usr/bin *
+  558  clear
+  559  grep -c [gcc] /usr/bin *
+  560  cd
+  561  /usr/bin
+  562  clear
+  563  grep -c [gcc] /usr/bin *
+  564  ls
+  565  cd usr/bin
+  566  cd
+  567  cd usr/bin
+  568  cd usr
+  569  cd /usr/
+  570  cd bin
+  571  ls
+  572  clear
+  573  grep -l "unix" *
+  574  clear
+  575  grep -l "gcc" *
+  576  clear
+  577  grep -c "gcc" *
+  578  clear
+  579  grep -c "gcc" * /desktop/weel1/ex1.txt
+  580  clear
+  581  grep -h "gcc" * /desktop/weel1/ex1.txt
+  582  clear
+  583  grep 'gcc' /usr/bin
+  584  grep 'gcc' /usr/bin/
+  585  grep 'gcc' usr/bin/
+  586  grep 'gcc' /usr/bin/*
+  587  clear
+  588  grep 'gcc' /usr/bin/* ex1.txt
+  589  clear
+  590  grep 'gcc' /usr/bin/*  Desktop/week1/ex1.txt
+  591  grep 'gcc' /usr/bin/*  /Desktop/week1/ex1.txt
+  592  grep 'gcc' /usr/bin/*  /Desktop/week1/ex1.txt/
+  593  grep 'gcc' /usr/bin/*  >> /Desktop/week1/ex1.txt
+  594  grep 'gcc' /usr/bin/*  >> /Desktop/week1/ex1.txt
+  595  cd
+  596  cd  desktop/week1
+  597  ls
+  598  grep 'gcc' /usr/bin/*  >> ex1.txt
+  599  sudo grep 'gcc' /usr/bin/*  >> ex1.txt
+  600  echo > ex2.txt
+  601  history > ex2.txt
+  602  echo > ex3.sh
+  603  sh ex3.sh
+  604  sh ex3.sh
+  605  sh ex3.sh
+  606  sh ex3.sh
+  607  whoami
+  608  clear
+  609  sh ex3.sh
+  610  sh ex3.sh
+  611  sh ex3.sh
+  612  sh ex3.sh
+  613  sh ex3.sh
+  614  sh ex3.sh
+  615  sh ex3.sh
+  616  clear
+  617  sh ex3.sh
+  618  sh ex3.sh
+  619  sh ex3.sh
+  620  clear
+  621  clear
+  622  sh ex3.sh
+  623  sh ex3.sh
+  624  clear
+  625  clear
+  626  sh ex3.sh
+  627  sh ex3.sh
+  628  clear
+  629  sh ex3.sh
+  630  sh ex3.sh
+  631  sh ex3.sh
+  632  clear
+  633  sh ex3.sh
+  634  sh ex3.sh
+  635  sh ex3.sh
+  636  clear
+  637  sh ex3.sh
+  638  sh ex3.sh
+  639  clear
+  640  sh ex3.sh
+  641  sh ex3.sh
+  642  clear
+  643  sh ex3.sh
+  644  clear
+  645  sh ex3.sh
+  646  clear
+  647  ls
+  648  gedit main.c
+  649  gedit /main.c
+  650  echo > main.c
+  651  gcc main.c -o ex4
+  652  clear
+  653  gcc main.c -o ex4
+  654  gcc main.c -o ex4
+  655* 
+  656  gcc main.c -o ex4
+  657  ./ex4
+  658  grip "gcc" /usr/bin >> ex1.txt
+  659  grip "gcc" /usr/bin* >> ex1.txt
+  660  clear
+  661  sudo grep 'gcc' /usr/bin/*  >> ex1.txt
+  662  sudo grep 'gcc' /usr/bin/*  >> ex1.txt
+  663  history ex2.txt
+  664  sudo-r  grep 'gcc' /usr/bin/*  >> ex1.txt
+  665  sudo -r  grep 'gcc' /usr/bin/*  >> ex1.txt
+  666  ls
+  667  history > ex2.txt
