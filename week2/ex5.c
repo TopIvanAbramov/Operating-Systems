@@ -38,15 +38,38 @@ void print_rectangle(int  n) {
     }
 }
 
-int main() {
-    int n;
+int main(int argc, char *argv[]) {
     
-    scanf("%d", &n);
+    int n, type;
     
-    print_triangle_v1(n);
+    sscanf(argv[1], "%d", &n); // convert a string to int and assign to  n
     
-    print_triangle_v2(n);
+    printf("""Please, choose the type of figure to  print: \n \
+           1 - Triangle version1 \n \
+           2 - Triangle version2 \n \
+           3 - Rectangle version1\n""");
     
-    print_rectangle(n);
+    scanf("%d", &type);
+    
+    switch(type) {
+        case 1 : {
+            print_triangle_v1(n);
+            break;
+        }
+            
+            
+        case 2 : {
+            print_triangle_v2(n);
+            break;
+        }
+            
+        case 3  : {
+            print_rectangle(n);
+            break;
+        }
+            
+    }
+    
+    
     return 0;
 }
