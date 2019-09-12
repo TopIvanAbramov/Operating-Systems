@@ -6,7 +6,7 @@ void read_command(char* command) {
     scanf("%[^\n]%*c", command);
 }
 
-int main()
+int main() //this is a solution for 3-4 tasks
 {
     int pid;
     
