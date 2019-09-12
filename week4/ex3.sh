@@ -1,7 +1,6 @@
 #!/bin/bash
 
-read -p "Enter Your Name: "  username
-echo "Welcome $username!"
+read -p "Enter Your command: "  cmd
+echo "Execute programm $cmd"
 
-cmd="ls"
 bash -c "$cmd"
