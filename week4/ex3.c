@@ -1,8 +1,23 @@
-
+#include <stdlib.h>
 #include <stdio.h>
-void main()
+#include <unistd.h>
+
+void read_command(char* command) {
+    scanf("%[^\n]%*c", command);
+}
+
+int main()
 {
-    int a[3] = {1, 2, 3};
-    int *p = a;
-    printf("%p  %p", p, a);
+    int pid;
+    
+    while(1) {
+        char* command;
+        read_command(command);
+        
+        pid = fork();
+        if (pid == 0) {
+            system(command);
+        }
+    }
+    return 0;
 }

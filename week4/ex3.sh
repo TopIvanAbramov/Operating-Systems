@@ -1,6 +1,7 @@
 #!/bin/bash
 
-read -p "Enter Your command: "  cmd
-echo "Execute programm $cmd"
-
-bash -c "$cmd"
+while true
+do
+    read -p ">"  cmd
+    bash -c "$cmd"
+done
