@@ -36,7 +36,7 @@ List allocateNode(int i) {
 void print_list(List list) {
     List temp = list;
     while (temp != NULL) {
-        printf("%d ",temp -> nbr);
+        printf("%d ", temp -> nbr);
         temp = temp -> next;
     }
     printf("\n");
