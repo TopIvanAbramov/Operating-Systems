@@ -9,10 +9,10 @@ int main() {
     
     for (int i = 0;  i < 3; i++) {
         pid = fork();
-        printf("%d\n", pid);
+        //printf("%d\n", pid);
         sleep(5);
      }
     
-    system("pstree");
+    //system("pstree");
 }
 
