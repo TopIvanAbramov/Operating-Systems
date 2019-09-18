@@ -2,17 +2,32 @@
 #include <stdlib.h>
 #include <sys/types.h>
 #include <unistd.h>
+#include <string.h>
+
+#define to_string(x) #x
 
 
 int main() {
-    int pid;
     
     for (int i = 0;  i < 3; i++) {
-        pid = fork();
-        printf("%d\n", pid);
-        sleep(5);
+        fork();
+        sleep(1);
      }
+
     
-    system("pstree");
+  system("pstree $!");
 }
 
+/* 47752
+ 0
+ 47753
+ 0
+ 47754
+ 0
+ 47755
+ 47756
+ 0
+ 0
+ 47757
+ 0
+ 47758 */
