@@ -10,12 +10,22 @@
 int main() {
     
     for (int i = 0;  i < 3; i++) {
+<<<<<<< HEAD
         fork();
         sleep(1);
+=======
+        pid = fork();
+        //printf("%d\n", pid);
+        sleep(5);
+>>>>>>> f0100611613d1191b70bc721d06031cde74487a1
      }
 
     
+<<<<<<< HEAD
   system("pstree $!");
+=======
+    //system("pstree");
+>>>>>>> f0100611613d1191b70bc721d06031cde74487a1
 }
 
 /* 47752
