@@ -4,4 +4,4 @@ Page size = 8 KB = 2^13 B
 Offset = 13 bits
 
 The number of entries in the page table are:
-2^16/(2^3*2^10) = 8
+2^(16-13) = 8

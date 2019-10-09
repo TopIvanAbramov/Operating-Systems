@@ -15,11 +15,10 @@ int main() {
         memset(temp, 0, byte);
         
         getrusage(RUSAGE_SELF,&r_usage);
-        printf("Memory usage = %ld\n",r_usage.ru_maxrss);
+        printf("Resident set size = %ld\nShared text memory size = %ld\n",r_usage.ru_maxrss,  r_usage.ru_ixrss);
         
         i++;
         sleep(1);
     }
-    
     return 0;
 }
