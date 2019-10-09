@@ -1,0 +1,3 @@
+Virtual memory is just abstraction to give the programmer the illusion of having infinite memory available on system. Virtual memory maps to actual physical addresses.
+
+Physical address is real address that exists in memory unit. Virtual address is generated in respective of a program and used as reference to access physical address

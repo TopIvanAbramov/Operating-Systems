@@ -1,0 +1,7 @@
+A machine has 16-bit virtual addresses. Pages are 8 KB.
+
+Page size = 8 KB = 2^13 B
+Offset = 13 bits
+
+The number of entries in the page table are:
+2^16/(2^3*2^10) = 8
