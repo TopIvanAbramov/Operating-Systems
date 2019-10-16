@@ -1,0 +1,6 @@
+1) To increase Hit\Miss ratio, it is needed to reference pages consequently
+  in the reversed order they were referenced before. For example:
+  0 1 2 3 3 2 1
+
+2) To decrease Hit\Miss ration we put references in the same order. For example:
+   0 1 2 3 4 0 1 2 3 4
