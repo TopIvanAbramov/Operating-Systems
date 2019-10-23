@@ -1,0 +1,5 @@
+/Users/ivan/Desktop/os_homework//week01/file.txt
+/Users/ivan/Desktop/os_homework//week10/_ex2.txt
+
+
+Files: file.txt and _ex2.txt deleted
