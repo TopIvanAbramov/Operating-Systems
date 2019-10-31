@@ -1,0 +1,3 @@
+In the first case we have double Hello as output, in the second case we have only one Hello as output.
+
+This is because we write Hello to buffer and symbols /n clear the buffer. In the first case we fork program with Hello in buffer, and in the second case without it. 
